@@ -5,5 +5,5 @@ var(
 )
 
 func init(){
-
+   println(G2)
 }
